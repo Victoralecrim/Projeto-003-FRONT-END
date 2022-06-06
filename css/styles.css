@@ -41,3 +41,106 @@ h1.entry-title .fa-heart::before {
     font-size: inherit;
     text-rendering: auto;
 }
+
+.page-desc {
+    color: #7e7e7e;
+    font-size: 16px;
+    line-height: 36px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.container-images {
+    margin-left: 120px;
+}
+
+.container-img1 {
+    position: relative;
+    display: inline-block;
+    margin-left: 200px;
+    margin-bottom: 700px;
+}
+
+.container-img2 {
+    position: relative;
+    display: inline-block;
+    margin-left: 40px;
+    bottom: 280px;
+}
+
+.container-img3 {
+    position: relative;
+    display: inline-block;
+    margin-left: 40px;
+    bottom: 280px;
+}
+
+#hover-efect-img1 {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    background-color: aliceblue;
+    top: 15PX;
+    position: absolute;
+    left: 34PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+
+#hover-efect-img1 {
+    width: 300px;
+    height: 480px;
+    background-color: red;
+    top: 15PX;
+    position: absolute;
+    left: 34PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img1:hover{
+    opacity: 100%;
+}
+
+
+#hover-efect-img2 {
+    width: 300px;
+    height: 480px;
+    position: absolute;
+    background-color: red;
+    top: 15PX;
+    position: absolute;
+    left: 34PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img2:hover{
+    opacity: 100%;
+}
+
+
+#hover-efect-img3 {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    background-color: aliceblue;
+    top: 15PX;
+    position: absolute;
+    left: 34PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img3:hover{
+    opacity: 100%;
+}
