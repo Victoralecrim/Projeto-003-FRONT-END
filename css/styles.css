@@ -91,9 +91,10 @@ h1.entry-title .fa-heart::before {
 
 
 #hover-efect-img1 {
-    width: 300px;
+    width: 310px;
     height: 480px;
     background-color: red;
+    margin-top: 7px;
     top: 15PX;
     position: absolute;
     left: 34PX;
@@ -110,7 +111,7 @@ h1.entry-title .fa-heart::before {
 
 #hover-efect-img2 {
     width: 300px;
-    height: 480px;
+    height: 220px;
     position: absolute;
     background-color: red;
     top: 15PX;
@@ -128,13 +129,14 @@ h1.entry-title .fa-heart::before {
 
 
 #hover-efect-img3 {
-    width: 600px;
-    height: 400px;
+    width: 300px;
+    height: 220px;
     position: absolute;
-    background-color: aliceblue;
-    top: 15PX;
+    background-color: red;
+    margin-top: 7px;
+    top: 7PX;
     position: absolute;
-    left: 34PX;
+    left: 35PX;
     text-align: center;
     line-height: 400px;
     opacity: 0;
