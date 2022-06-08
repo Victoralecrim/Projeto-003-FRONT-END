@@ -74,26 +74,48 @@ h1.entry-title .fa-heart::before {
     margin-left: 40px;
     bottom: 280px;
 }
-
-#hover-efect-img1 {
-    width: 600px;
-    height: 400px;
-    position: absolute;
-    background-color: aliceblue;
-    top: 15PX;
-    position: absolute;
-    left: 34PX;
-    text-align: center;
-    line-height: 400px;
-    opacity: 0;
-    transition: opacity 1s;
+.container-img4 {
+    width: 380px;
+    position: relative;
+    display: inline-block;
+    margin-left: 200px;
+    bottom: 950px;
 }
-
+.container-img5 {
+    position: relative;
+    display: inline-block;
+    margin-left: 60px;
+    bottom: 950px;
+}
+.container-img6 {
+    position: relative;
+    display: inline-block;
+    margin-left: 200px;
+    bottom: 75em;
+}
+.container-img7 {
+    position: relative;
+    display: inline-block;
+    margin-left: 50px;
+    bottom: 920px;
+}
+.container-img8 {
+    position: relative;
+    display: inline-block;
+    margin-left: 50px;
+    bottom: 920px;
+}
+.container-img9 {
+    position: relative;
+    display: inline-block;
+    margin-left: 200px;
+    bottom: 1180px;
+}
 
 #hover-efect-img1 {
     width: 310px;
     height: 480px;
-    background-color: red;
+    background-color: aliceblue;
     margin-top: 7px;
     top: 15PX;
     position: absolute;
@@ -104,21 +126,20 @@ h1.entry-title .fa-heart::before {
     transition: opacity 1s;
 }
 
-#hover-efect-img1:hover{
-    opacity: 100%;
+#hover-efect-img1:hover { 
+    opacity: 100%;   
 }
-
 
 #hover-efect-img2 {
     width: 300px;
     height: 220px;
     position: absolute;
-    background-color: red;
+    background-color: aliceblue;
     top: 15PX;
     position: absolute;
     left: 34PX;
     text-align: center;
-    line-height: 400px;
+    line-height: 200px;
     opacity: 0;
     transition: opacity 1s;
 }
@@ -127,12 +148,51 @@ h1.entry-title .fa-heart::before {
     opacity: 100%;
 }
 
-
 #hover-efect-img3 {
     width: 300px;
     height: 220px;
     position: absolute;
-    background-color: red;
+    background-color: aliceblue;
+    margin-top: 7px;
+    top: 7PX;
+    position: absolute;
+    left: 35PX;
+    text-align: center;
+    line-height: 200px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img3:hover{
+    opacity: 100%;
+}
+
+#hover-efect-img4 {
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    background-color: aliceblue;
+    margin-top: 7px;
+    top: 7PX;
+    position: absolute;
+    left: 35PX;
+    text-align: center;
+    line-height: 200px;
+    font-size: 25px;
+    font-weight: 100;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img4:hover{
+    opacity: 100%;
+}
+
+#hover-efect-img5 {
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    background-color: aliceblue;
     margin-top: 7px;
     top: 7PX;
     position: absolute;
@@ -143,6 +203,83 @@ h1.entry-title .fa-heart::before {
     transition: opacity 1s;
 }
 
-#hover-efect-img3:hover{
+
+#hover-efect-img5:hover{
+    opacity: 100%;
+}
+
+#hover-efect-img6 {
+    width: 300px;
+    height: 225px;
+    position: absolute;
+    background-color: aliceblue;
+    margin-top: 7px;
+    top: 7PX;
+    position: absolute;
+    left: 40PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img6:hover{
+    opacity: 100%;
+}
+
+#hover-efect-img7 {
+    width: 300px;
+    height: 500px;
+    position: absolute;
+    background-color: aliceblue;
+    margin-top: 7px;
+    top: 7PX;
+    position: absolute;
+    left: 30PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img7:hover{
+    opacity: 100%;
+}
+
+#hover-efect-img8 {
+    width: 320px;
+    height: 500px;
+    position: absolute;
+    background-color: aliceblue;
+    margin-top: 7px;
+    top: 7PX;
+    position: absolute;
+    left: 25PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img8:hover{
+    opacity: 100%;
+}
+
+#hover-efect-img9 {
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    background-color: aliceblue;;
+    margin-top: 7px;
+    top: 7PX;
+    position: absolute;
+    left: 35PX;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#hover-efect-img9:hover{
     opacity: 100%;
 }
