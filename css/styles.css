@@ -74,6 +74,7 @@ h1.entry-title .fa-heart::before {
     margin-left: 40px;
     bottom: 280px;
 }
+
 .container-img4 {
     width: 380px;
     position: relative;
@@ -81,30 +82,35 @@ h1.entry-title .fa-heart::before {
     margin-left: 200px;
     bottom: 950px;
 }
+
 .container-img5 {
     position: relative;
     display: inline-block;
     margin-left: 60px;
     bottom: 950px;
 }
+
 .container-img6 {
     position: relative;
     display: inline-block;
     margin-left: 200px;
     bottom: 75em;
 }
+
 .container-img7 {
     position: relative;
     display: inline-block;
     margin-left: 50px;
     bottom: 920px;
 }
+
 .container-img8 {
     position: relative;
     display: inline-block;
     margin-left: 50px;
     bottom: 920px;
 }
+
 .container-img9 {
     position: relative;
     display: inline-block;
@@ -123,51 +129,55 @@ h1.entry-title .fa-heart::before {
     text-align: center;
     padding-top: 200px;
     line-height: 40px;
-    font-family: 'Roboto',sans-serif;
-    letter-spacing: 5px;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     vertical-align: top;
     opacity: 0;
     transition: opacity 1s;
 }
 
-#hover-efect-img1:hover{ 
-    opacity: 100%;   
-    
+#hover-efect-img1:hover {
+    opacity: 100%;
+
 }
 
-.gallery{
+.gallery {
     color: #7e7e7e;
+    line-height: 100%;
+    font-size: 11px;
+    color: #9a9a9a;
+    padding-top: 20px;
+    letter-spacing: 5px;
+    padding-left: 5px;
 }
 
 #hover-efect-img2 {
-    width: 300px;
-    height: 220px;
+    width: 310px;
+    height: 200px;
     position: absolute;
     background-color: aliceblue;
-    top: 15PX;
+    top: 25PX;
     position: absolute;
-    left: 34PX;
+    left: 30PX;
     text-align: center;
     padding-top: 60px;
-    line-height: 5px;
-    line-height: 50px;
-    font-family: 'Roboto',sans-serif;
-    font-size: 16px;
+    line-height: 40px;
+    font-family: 'Roboto', sans-serif;
     opacity: 0;
     transition: opacity 1s;
 }
 
-#hover-efect-img2:hover{
+#hover-efect-img2:hover {
     opacity: 100%;
 }
 
-.video{
-    color: #7e7e7e;
-    font-size: 16px;
+.video {
+    line-height: 100%;
+    font-size: 11px;
+    color: #9a9a9a;
+    padding-top: 20px;
     letter-spacing: 5px;
-    margin-left: 5px;
-    align-items: center;
+    padding-left: 5px;
 }
 
 #hover-efect-img3 {
@@ -183,21 +193,22 @@ h1.entry-title .fa-heart::before {
     text-align: center;
     line-height: 5px;
     line-height: 50px;
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto', sans-serif;
     opacity: 0;
     transition: opacity 1s;
 }
 
-#hover-efect-img3:hover{
+#hover-efect-img3:hover {
     opacity: 100%;
 }
 
-.video{
-    color: #7e7e7e;
-    font-size: 16px;
+.video {
+    line-height: 100%;
+    font-size: 11px;
+    color: #9a9a9a;
+    padding-top: 20px;
     letter-spacing: 5px;
-    margin-left: 5px;
-    align-items: center;
+    padding-left: 5px;
 }
 
 #hover-efect-img4 {
@@ -217,8 +228,22 @@ h1.entry-title .fa-heart::before {
     transition: opacity 1s;
 }
 
-#hover-efect-img4:hover{
+#hover-efect-img4:hover {
     opacity: 100%;
+}
+
+.Starlight {
+    margin-top: 80px;
+    line-height: 100%;
+}
+
+.article {
+    line-height: 100%;
+    font-size: 11px;
+    color: #9a9a9a;
+    padding-top: 20px;
+    letter-spacing: 5px;
+    padding-left: 5px;
 }
 
 #hover-efect-img5 {
@@ -228,17 +253,30 @@ h1.entry-title .fa-heart::before {
     background-color: aliceblue;
     margin-top: 7px;
     top: 7PX;
-    position: absolute;
     left: 35PX;
     text-align: center;
-    line-height: 400px;
+    font-size: 20px;
     opacity: 0;
     transition: opacity 1s;
 }
 
-
-#hover-efect-img5:hover{
+#hover-efect-img5:hover {
     opacity: 100%;
+}
+
+.portfolio-text {
+    margin-top: 250px;
+    line-height: 100%;
+
+}
+
+.gallery5 {
+    font-size: 11px;
+    color: #9a9a9a;
+    padding-top: 20px;
+    letter-spacing: 5px;
+    padding-left: 5px;
+    text-align: center;
 }
 
 #hover-efect-img6 {
@@ -256,17 +294,22 @@ h1.entry-title .fa-heart::before {
     transition: opacity 1s;
 }
 
-#hover-efect-img6:hover{
+#hover-efect-img6:hover {
     opacity: 100%;
+}
+
+.open-book {
+    margin-top: 100px;
+    line-height: 100%;
 }
 
 #hover-efect-img7 {
     width: 300px;
-    height: 500px;
+    height: 475px;
     position: absolute;
     background-color: aliceblue;
     margin-top: 7px;
-    top: 7PX;
+    top: 17PX;
     position: absolute;
     left: 30PX;
     text-align: center;
@@ -275,8 +318,14 @@ h1.entry-title .fa-heart::before {
     transition: opacity 1s;
 }
 
-#hover-efect-img7:hover{
+#hover-efect-img7:hover {
     opacity: 100%;
+}
+
+.burguer {
+    margin-top: 220px;
+    line-height: 100%;
+    font-size: 20px;
 }
 
 #hover-efect-img8 {
@@ -294,15 +343,21 @@ h1.entry-title .fa-heart::before {
     transition: opacity 1s;
 }
 
-#hover-efect-img8:hover{
+#hover-efect-img8:hover {
     opacity: 100%;
+}
+
+.printScreen {
+    margin-top: 200px;
+    line-height: 100%;
+    font-size: 20px;
 }
 
 #hover-efect-img9 {
     width: 300px;
     height: 220px;
     position: absolute;
-    background-color: aliceblue;;
+    background-color: aliceblue;
     margin-top: 7px;
     top: 7PX;
     position: absolute;
@@ -313,6 +368,12 @@ h1.entry-title .fa-heart::before {
     transition: opacity 1s;
 }
 
-#hover-efect-img9:hover{
+#hover-efect-img9:hover {
     opacity: 100%;
+}
+
+.Bottle {
+    margin-top: 80px;
+    line-height: 100%;
+    font-size: 20px;
 }
